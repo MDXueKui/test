@@ -1,0 +1,3 @@
+/home/pengdong/test/cjson_test/build/CMakeFiles/cjson_test.dir
+/home/pengdong/test/cjson_test/build/CMakeFiles/edit_cache.dir
+/home/pengdong/test/cjson_test/build/CMakeFiles/rebuild_cache.dir

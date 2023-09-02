@@ -1,0 +1,1 @@
+/usr/bin/cc -std=c99 -rdynamic CMakeFiles/cjson_test.dir/cJSON.c.o CMakeFiles/cjson_test.dir/cjson_test.c.o -o cjson_test  -lm 
